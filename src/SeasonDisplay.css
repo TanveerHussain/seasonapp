@@ -1,0 +1,9 @@
+.leftIcon { position: absolute; left: 10px; top: 10px; }
+.rightIcon { position: absolute; right: 10px; bottom: 10px; }
+.season-display { display: flex; justify-content: center; align-items: center; height: 100vh; }
+
+.season-display.winter i { color: blue; }
+.season-display.summer i { color: orangered; }
+
+.winter { background-color: #acd8ff; }
+.summer { background-color: orange; }
